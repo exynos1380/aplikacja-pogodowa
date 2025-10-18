@@ -1,2 +1,2 @@
-# aplikacja pogodowa
- aplikacja pogodowa na android
+# Aplikacja pogodowa 
+ ## Aplikacja pogodowa z wykorzystaniem Material You
